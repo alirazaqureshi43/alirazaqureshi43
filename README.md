@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ExpressJS**
 
-- 👨‍💻 Visit my portfolio web: [aliraza.social](aliraza.social)
+- 👨‍💻 Visit my portfolio web: (https://alirazaqureshi.netlify.app/)
 
 - 💬 Ask me about **react.js, javaSript**
 
