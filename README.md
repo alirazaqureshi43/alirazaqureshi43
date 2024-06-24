@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Full stack projects**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **ExpressJS**
 
 - 👨‍💻 Visit my portfolio web: [aliraza.social](aliraza.social)
 
